@@ -1,5 +1,5 @@
 """
-ASGI config for chat_system project.
+ASGI config for CC_S4 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
